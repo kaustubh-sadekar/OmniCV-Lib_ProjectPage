@@ -56,7 +56,7 @@ Some key points of the application are mentioned below :
 </p>
 
 
-<!-- ## Output Gallery
+## Output Gallery
 
 Some interesting 360&deg; video effects
 
@@ -80,7 +80,7 @@ Horizontal and vertical orientation viewing mode support
 
 360&deg; viewer mode 1        |  360&deg; viewer mode 2
 :-------------------------:|:-------------------------:
-![](gifs/360Viewer2.gif)  |  ![](gifs/360Viewer3.gif) -->
+![](gifs/360Viewer2.gif)  |  ![](gifs/360Viewer3.gif)
 
 
 *Project page template inspired from [GradSLAM](https://gradslam.github.io/).*
