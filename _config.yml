@@ -1,0 +1,6 @@
+theme: minima
+title: OmniCV-Lib - Library for omnidirectional cameras
+description: Virtual camera classes in Python and C++ for various omnidirectional camera models with ROS support.
+
+header_pages:
+  about.md
